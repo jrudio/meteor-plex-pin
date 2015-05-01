@@ -4,6 +4,9 @@ A Plex.tv PIN request module
 ## Note
 The point of this package is so you can easily create an app that requires myPlex authentication without the user needing to input the credentials of the plex account and instead use the Plex.tv/pin api to get an authorization token for users via PIN.
 
+### Demo
+Click [here](http://plexpin.meteor.com/) for a demo
+
 #### Installation
 
 ```bash
